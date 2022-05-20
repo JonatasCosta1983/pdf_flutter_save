@@ -1,0 +1,4 @@
+#Fri May 20 14:06:53 BRT 2022
+base.0=/home/experiment/projects/pdftester/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

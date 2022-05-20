@@ -1,0 +1,44 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+RPCError: getIsolate: (112) Service has disappeared
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 2.0.0, on Linux, locale pt_BR.UTF-8)
+    • Flutter version 2.0.0 at /home/experiment/.asdf/installs/flutter/2.0.0-stable
+    • Framework revision 60bd88df91 (1 year, 3 months ago), 2021-03-03 09:13:17 -0800
+    • Engine revision 40441def69
+    • Dart version 2.12.0
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 32.0.0)
+    • Android SDK at /home/experiment/Android/Sdk
+    • Platform android-32, build-tools 32.0.0
+    • Java binary at: /usr/bin/java
+    • Java version OpenJDK Runtime Environment (build 11.0.15+10-Ubuntu-0ubuntu0.20.04.1)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at google-chrome
+
+[!] Android Studio (not installed)
+    • Android Studio not found; download from https://developer.android.com/studio/index.html
+      (or visit https://flutter.dev/docs/get-started/install/linux#android-setup for detailed instructions).
+
+[✓] Connected device (2 available)
+    • moto g 8 power lite (mobile) • 192.168.0.3:5555 • android-arm64  • Android 10 (API 29)
+    • Chrome (web)                 • chrome           • web-javascript • Google Chrome 100.0.4896.127
+    ! Device 192.168.0.3:5555 is offline.
+
+! Doctor found issues in 1 category.
+```
